@@ -9,7 +9,7 @@
 cd /var/www/rutorrent/plugins/theme/themes
 ```
 ```
-git clone git://github.com/Teal-c/rtModern-jellyfin.git rtModern-Jellyfin
+git clone git://github.com/Teal-c/rtModern-Jellyfin.git rtModern-Jellyfin
 ```
 ```
 chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-Jellyfin
