@@ -1,6 +1,6 @@
 # Thème ruTorrent
 
-## rtModern-jellyfin
+## rtModern-Jellyfin
 
 ![alt text](https://raw.githubusercontent.com/Teal-c/rtModern-jellyfin/master/capture.png "demo")
 
