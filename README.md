@@ -9,10 +9,10 @@
 cd /var/www/rutorrent/plugins/theme/themes
 ```
 ```
-git clone git://github.com/Teal-c/rtModern-jellyfin.git rtModern-jellyfin
+git clone git://github.com/Teal-c/rtModern-jellyfin.git rtModern-Jellyfin
 ```
 ```
-chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-jellyfin
+chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-Jellyfin
 ```
 #### Thème pour Plex
 
