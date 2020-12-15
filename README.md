@@ -14,9 +14,9 @@ git clone git://github.com/Teal-c/rtModern-Jellyfin.git rtModern-Jellyfin
 ```
 chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-Jellyfin
 ```
-#### Thème pour Plex
+#### Les autres thèmes
 
-github : https://github.com/Teal-c/rtModern-Plex
+github : https://github.com/Teal-c/rtModern
 
 #### Script d'installation ruTorrent Bonobox
 
